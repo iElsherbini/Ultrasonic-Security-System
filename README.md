@@ -1,4 +1,3 @@
-#  security device using an Arduino and Ultrasonic sensor
 ## Supplies
 * Ultrasonic Sensor
 * Arduino
